@@ -35,3 +35,12 @@ Instale a dependência:
 ```bash
 pip install tqdm
 ```
+## Screenshot
+
+<p align="center">
+  <img src="images/prtsc1.png" alt="Port Scanner" width="800">
+</p>
+
+<p align="center">
+  <img src="images/prtsc.png" alt="Port Scanner" width="800">
+</p>
